@@ -36,7 +36,7 @@ A retro-futuristic neon CSS generator with interactive sliders for creating synt
 
 ## 🚀 Live Demo
 
-Experience the generator live: [Synthwave CSS Generator](https://your-demo-url.com)
+Experience the generator live: [Synthwave CSS Generator](https://synthwavecssgen.netlify.app)
 
 ## 📸 Screenshots
 
@@ -181,7 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-url.com)
+- [Live Demo](https://synthwavecssgen.netlify.app)
 - [GitHub Repository](https://github.com/risterz/synthwave-css-generator)
 - [Issues](https://github.com/risterz/synthwave-css-generator/issues)
 
